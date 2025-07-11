@@ -1,0 +1,10 @@
+# Node modules (if any future integration)
+node_modules/
+
+# Sensitive files
+.env
+*.env.local
+
+# OS-specific
+.DS_Store
+Thumbs.db
